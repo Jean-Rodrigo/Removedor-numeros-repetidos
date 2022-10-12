@@ -41,5 +41,6 @@ def criar_documento_telefone(texto_atualizado):
     print(str(arquivo))
     arquivo.close()
 
-
+ """ Agora só estou chamando a função para poder executar o código """
+    
 limpar_telefone_repetidos()
